@@ -17,3 +17,6 @@ Python provides a huge set of libraries that can be used to clean and transform 
 Preliminary data insights have been plotted using Matplotlib and seaborn. 
 
 **Using PowerBI,** built an interactive dashboard to generate insights on the best 11 players. Used Power query for further data transformation and DAX for parameter building.
+
+** SCREENSHOTS OF THE POWER BI DASHBOARD: **
+
