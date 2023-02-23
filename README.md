@@ -18,5 +18,7 @@ Preliminary data insights have been plotted using Matplotlib and seaborn.
 
 **Using PowerBI,** built an interactive dashboard to generate insights on the best 11 players. Used Power query for further data transformation and DAX for parameter building.
 
-** SCREENSHOTS OF THE POWER BI DASHBOARD: **
+**POWER BI DASHBOARD SCREENSHOTS**
 
+
+![D1](https://user-images.githubusercontent.com/48100680/220982570-6a92babd-7c0f-4176-bd85-c914e7cc854c.jpg)
