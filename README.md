@@ -22,3 +22,5 @@ Preliminary data insights have been plotted using Matplotlib and seaborn.
 
 
 ![D1](https://user-images.githubusercontent.com/48100680/220982570-6a92babd-7c0f-4176-bd85-c914e7cc854c.jpg)
+![D2](https://user-images.githubusercontent.com/48100680/220982657-e1df9caf-6d1a-4f08-86da-7cc0d9d455e9.jpg)
+![D3](https://user-images.githubusercontent.com/48100680/220982811-7629dd59-9a95-472f-a0a5-ba17dc18f45b.jpg)
